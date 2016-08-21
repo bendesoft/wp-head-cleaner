@@ -1,4 +1,4 @@
-=== WP Head Cleaner ===
+# WP Head Cleaner
 Contributors: bendesoft
 Tags: head cleaning
 Donate link: http://bendesoft.hu/en
@@ -7,21 +7,18 @@ Tested up to: 4.5
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
 Remove unnecessary tags from header.
 
-== Description ==
+# Description
 Remove unnecessary tags from header.
 
-== Installation ==
+# Installation
 1. Upload "head cleaner" folder to the "/wp-content/plugins/" directory.
-2. Activate the plugin through the "Plugins" menu in WordPress.
+2. 2. Activate the plugin through the "Plugins" menu in WordPress.
 
+# Changelog
 
-
-== Changelog ==
-
-= 1.0 =
+## 1.0
 Initial version. Features:
 * remove wp generator
 * remove short link
