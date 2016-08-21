@@ -14,8 +14,8 @@ Remove unnecessary tags from header.
 Remove unnecessary tags from header.
 
 == Installation ==
-1. Upload \"head cleaner\" folder to the \"/wp-content/plugins/\" directory.
-2. Activate the plugin through the \"Plugins\" menu in WordPress.
+1. Upload "head cleaner" folder to the "/wp-content/plugins/" directory.
+2. Activate the plugin through the "Plugins" menu in WordPress.
 
 
 
